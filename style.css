@@ -1,9 +1,9 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #7bafdf;
-    --color-button-hover: #2398dc;
+    --color-primary: #727fbf;
+    --color-secondary: #ebd8ee;
+    --color-tertiary: #3aa7c5;
+    --color-button: #358db8;
+    --color-button-hover: #3aa7c5;
     --color-text: #272525;
     --color-white: #ffffffef;
 }
@@ -106,12 +106,12 @@ body {
 
 /* Estilos de botón */
 button {
-    padding: 15px 30px;
+    padding: 18px 30px;
     font-family: "Inter", sans-serif;
     font-size: 16px;
     border: 2px solid #000;
     border-radius: 25px;
-    box-shadow: 0 4px 8px rgba(186, 91, 91, 0.3);
+    box-shadow: 0 4px 8px rgba(196, 85, 85, 0.3);
     cursor: pointer;
 }
 
@@ -122,7 +122,7 @@ button {
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: #358db8;
 }
 
 /* Listas */
